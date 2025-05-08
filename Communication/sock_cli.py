@@ -11,5 +11,5 @@ def run():
   print(data.decode())
   s.close()
 
-if __main__ == "__main__":
+if __name__ == "__main__":
   run()
